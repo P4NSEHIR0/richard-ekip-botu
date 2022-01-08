@@ -1,6 +1,6 @@
 # Richard Ekip Botu
 
-- 2 Hafta gibi bi süre yapmıştım, hata dolu bi bot bilen yapar bilmeyen kod swlerinden yardım alsın.
+- 2 Hafta gibi bi sürede yapmıştım, hata dolu bi bot bilen yapar bilmeyen kod swlerinden yardım alsın.
 - Sistem genel olarak ekip sunucularında kullanılabilir şekilde yapılmıştır.
 
 Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
