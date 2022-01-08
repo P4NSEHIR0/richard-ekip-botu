@@ -1,0 +1,15 @@
+{
+    "register": "ROLE ID",
+    "erkek1": "ROLE ID",
+    "kadin1": "ROLE ID",
+    "family": "ROLE ID",
+    "quarantine": "ROLE ID",
+    "vip": "ROLE ID",
+    "booster": "ROLE ID",
+    "unregister": "ROLE ID",
+    "controllog": "CHANNEL ID",
+    "taglog": "CHANNEL ID",
+    "welcome": "CHANNEL ID",
+    "chat": "CHANNEL ID",
+    "minyas": "15"
+}

@@ -1,0 +1,11 @@
+{
+    "register": "ROLE ID",
+    "banhammer": "ROLE ID",
+    "jailhammer": "ROLE ID",
+    "chatmutehammer": "ROLE ID",
+    "voicemutehammer": "ROLE ID",
+    "warnhammer": "ROLE ID",
+    "jailed": "ROLE ID",
+    "chatmuted": "ROLE ID",
+    "voicemuted": "ROLE ID"
+}
